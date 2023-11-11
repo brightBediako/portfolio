@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: 'Blog',
+    title: 'MERN Blog',
     description: "This web app is a user-friendly journaling platform built with Node.js, Express, and MongoDB. It allows users to compose journal entries, which are securely stored in a MongoDB database. The app offers a clean interface, easy entry creation, and features like editing and deleting entries. It promotes personal growth, self-reflection, and organized memory preservation.",
     image: '/images/1.png',
-    tags: ['MongoDB', 'Express', 'Node'],
+    tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/BrightBediako/blog-with-mongoDB',
     visit: 'https://blog-rh88.onrender.com/',
     id: 0,
@@ -18,23 +18,23 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Corporate Site',
+    title: 'Blogging Website',
     description: "This is a corporate website landing page, responsive and mobile friendly.",
-    image: '/images/3.png',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+    image: '/images/5.png',
+    tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
     source: 'https://github.com/BrightBediako/wedesign',
     visit: 'https://brightbediako.github.io/wedesign/',
     id: 2,
   },
-  // {
-  //   title: 'Unichat',
-  //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
-  // },
+  {
+    title: 'Project Management Tool',
+    description: "This is a corporate website landing page, responsive and mobile friendly.",
+    image: '/images/4.png',
+    tags: ['MongoDB', 'Express', 'React', 'Node'],
+    source: 'https://github.com/BrightBediako/wedesign',
+    visit: 'https://brightbediako.github.io/wedesign/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
