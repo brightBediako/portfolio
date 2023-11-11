@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: 'MERN Blog',
-    description: "This web app is a user-friendly journaling platform built with Node.js, Express, and MongoDB. It allows users to compose journal entries, which are securely stored in a MongoDB database. The app offers a clean interface, easy entry creation, and features like editing and deleting entries. It promotes personal growth, self-reflection, and organized memory preservation.",
+    description: "This is a dynamic and responsive React-based blog application designed to provide an intuitive and engaging platform for content creation and consumption. This project leverages the power of React to deliver a seamless user experience, allowing individuals to easily compose, edit, and share blog posts.",
     image: '/images/1.png',
     tags: ['MongoDB', 'Express', 'React', 'Node'],
-    source: 'https://github.com/BrightBediako/blog-with-mongoDB',
-    visit: 'https://blog-rh88.onrender.com/',
+    source: 'https://github.com/BrightBediako/react-blog',
+    visit: 'https://react-blog-client-t9j8.onrender.com/',
     id: 0,
   },
   {
@@ -18,22 +18,22 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Blogging Website',
-    description: "This is a corporate website landing page, responsive and mobile friendly.",
-    image: '/images/5.png',
-    tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
-    source: 'https://github.com/BrightBediako/wedesign',
-    visit: 'https://brightbediako.github.io/wedesign/',
-    id: 2,
-  },
-  {
     title: 'Project Management Tool',
-    description: "This is a corporate website landing page, responsive and mobile friendly.",
+    description: "I developed an advanced MERN stack web app during my internship at CodSoft, focusing on a powerful project management system. Key features include user authentication, dynamic project tracking, and task assignment with progress monitoring",
     image: '/images/4.png',
     tags: ['MongoDB', 'Express', 'React', 'Node'],
-    source: 'https://github.com/BrightBediako/wedesign',
-    visit: 'https://brightbediako.github.io/wedesign/',
+    source: 'https://github.com/BrightBediako/CodeSoft_Level3/tree/main/project-manager-task2',
+    visit: 'https://project-client-ivg6.onrender.com',
     id: 3,
+  },
+  {
+    title: 'Blogging Website',
+    description: "As part of the CodeSoft internship, this is a comprehensive web development project aiming to construct a feature-rich blog website. It showcases proficiency in web technologies, illustrating a practical understanding of crafting dynamic and interactive web applications. Key features encompass post creation, listing, user authentication, search functionality, and a commenting system.",
+    image: '/images/5.png',
+    tags: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
+    source: 'https://github.com/BrightBediako/CodeSoft_Level3/tree/main/blog-website-task1',
+    visit: 'https://hispanic-clothing.000webhostapp.com/index.php',
+    id: 2,
   },
 ];
 

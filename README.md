@@ -11,7 +11,7 @@ Welcome to my personal portfolio repository! This is where I showcase my skills,
 
 ## About Me
 
-I am [Your Name], a passionate [Your Profession] based in [Your Location]. I am dedicated to [brief description of your mission or what you do]. This portfolio serves as a glimpse into my journey, skills, and projects.
+
 
 ## Projects
 

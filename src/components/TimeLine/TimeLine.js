@@ -46,8 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionDivider divider />
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>
-        I'm a driven and passionate professional who has a strong enthusiasm for creativity and innovation. I do best in demanding situations where I can put my knowledge and abilities to the test. I've collaborated with incredible folks on a number of fascinating projects. I'm also dedicated to helping others and having a positive influence on the world. Let's collaborate to accomplish our objectives.
+      <SectionText>Passionate Full-stack Developer with expertise in PHP, MySQL, HTML5, CSS3, JavaScript, and the MERN Stack. Dedicated to delivering high-quality applications through clear, logical thinking and strong problem-solving skills. Background in Business Information Technology, offering a unique blend of technical proficiency and a results-driven approach.
       </SectionText>
       <SectionTitle >Education</SectionTitle>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
