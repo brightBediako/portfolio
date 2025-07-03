@@ -178,6 +178,25 @@
 
 /* Mobile landscape */
 @media (max-width: 768px) {
+  html,
+  body {
+    overflow-x: hidden !important;
+  }
+  .hero-content {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .hero-container {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .nav-toggle {
+    display: flex !important;
+  }
   .nav-menu {
     position: fixed;
     top: 70px;
@@ -217,14 +236,6 @@
     transform: rotate(-45deg) translate(7px, -6px);
   }
 
-  .hero-content {
-    display: flex !important;
-    flex-direction: column !important;
-    align-items: center !important;
-    width: 100vw !important;
-    max-width: 100vw !important;
-    box-sizing: border-box;
-  }
   .hero-visual,
   .hero-image {
     width: 100% !important;

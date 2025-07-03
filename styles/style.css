@@ -958,7 +958,7 @@ a {
   }
 
   .nav-toggle {
-    display: flex;
+    display: flex !important;
   }
 
   .nav-toggle.active span:nth-child(1) {
